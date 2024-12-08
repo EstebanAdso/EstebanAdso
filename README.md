@@ -26,7 +26,7 @@
     <li>💡 Passionate about problem-solving and coding.  </li>
     <li>🚀 Always learning and improving.  </li>
     <li>📂 Open for immediate opportunities </li>
-    <li>💥 Check <a href="(link)" target="_blank">MY WEBSITE</a>.</li>
+    <li>💥 Check <a href="https://estebanadso.github.io/CV-Esteban-Trujillo/" target="_blank">MY WEBSITE</a>.</li>
 </ul>
 
 <hr>
