@@ -20,13 +20,10 @@
 <hr>
 
 <ul>
-    <li>🌍 From Pasto, Nariño, Colombia.</li>
     <li>🎓 Software Engineering Student (Virtual). </li> 
     <li>📜 Technologist in Software Development (SENA). </li> 
     <li>💡 Passionate about problem-solving and coding.  </li>
     <li>🚀 Always learning and improving.  </li>
-    <li>📂 Open for immediate opportunities </li>
-    <li>💥 Check <a href="https://estebanadso.github.io/CV-Esteban-Trujillo/" target="_blank">MY WEBSITE</a>.</li>
 </ul>
 
 <hr>
