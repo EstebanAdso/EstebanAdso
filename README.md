@@ -20,7 +20,7 @@
 <hr>
 
 <ul>
-    <li>🎓 Software Engineering Student (Virtual). </li> 
+    <li>🎓 Software Engineering Student. </li> 
     <li>📜 Technologist in Software Development (SENA). </li> 
     <li>💡 Passionate about problem-solving and coding.  </li>
     <li>🚀 Always learning and improving.  </li>
