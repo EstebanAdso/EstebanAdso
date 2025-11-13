@@ -59,16 +59,8 @@
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/EstebanAdso">
         <img src="https://img.icons8.com/color/40/000000/github--v1.png" alt="GitHub">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/+573187967822">
-        <img src="https://img.icons8.com/color/40/000000/whatsapp.png" alt="WhatsApp">
-    </a>
 </div>
 
-<p>Credits:</p>
-<ul>
-    <li><a href="https://github.com/Aditya664">Aditya Deshmukh</a></li>
-    <li><a href="https://github.com/100rabhcsmc">Saurabh Chavan</a></li>
-</ul>
 </body>
 </html>
 
